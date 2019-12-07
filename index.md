@@ -86,7 +86,6 @@ body {
 	<div>I think about you day and night<br />  <span>日夜都在想你</span></div>
 	<div>I don't know <br />  <span>我不知道</span></div>
 	<div>how to express my feelings<br />  <span>该怎么表达我的感情</span></div>
-	<div>My feelings<br />  <span>我的感情</span></div>
 	<div>I took myself <br />  <span>我带着我自己</span></div>
 	<div>Come to your DongYing<br />  <span>来了你的东营</span></div>
 	<div>All I can say is<br/>  <span>我只能说</span></div>

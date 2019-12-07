@@ -79,13 +79,14 @@ body {
 <body >
 
 <div id="rotate-words">  
-	<div>宝贝<br />  <span>我感同身受</span></div>
-	<div>你的煎熬<br />  <span>我也是</span></div>
-	<div>日夜都在想你<br />  <span>我不知道</span></div>
-	<div> 该怎么表达我的感情<br /> <div>我太爱你了<br /> 
+	<div>宝贝<br />  <span>你的煎熬</span></div>
+	<div>我感同身受<br />  <span>我和你一样</span></div>
+	<div>日夜都在想着对方<br />  <span>我不知道</span></div>
+	<div> 该怎么表达我的感情<br /> <span>我太爱你了</span></div>
 	<div>所以我来了<br />  <span>没有你的我</span></div>
-	<div>只是一个半人，如果可以的话<br />  <span>我想拉着你 </span></div>
-	<div>游走这个世间 <br />  <span>不要忘记我爱你</span></div>
+	<div>只是一个半人<br />  <span>如果可以的话 </span></div>
+	<div>我想拉着你<br />  <span>游走这个世间  </span></div>
+	<div>不管多久 <br />  <span>不要忘记我爱你</span></div>
         	
 </div>
 
@@ -93,3 +94,4 @@ body {
 </div>
 </body>
 </html>
+

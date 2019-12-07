@@ -62,6 +62,9 @@ body {
 #rotate-words div:nth-child(6) { animation-delay: 20s}
 #rotate-words div:nth-child(7) { animation-delay: 24s}
 #rotate-words div:nth-child(8) { animation-delay: 28s}
+#rotate-words div:nth-child(9) { animation-delay: 32s}
+#rotate-words div:nth-child(10) { animation-delay: 36s}
+#rotate-words div:nth-child(11) { animation-delay: 40s}
 
 @keyframes author {
     0% { opacity: 0;  transform: translateY(100px);filter:blur(10px);transform: scaleY(2)}

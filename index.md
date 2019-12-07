@@ -79,21 +79,13 @@ body {
 <body >
 
 <div id="rotate-words">  
-	<div>Baby<br />  <span>宝贝</span></div>
-	<div>I saw<br />  <span>我感同身受</span></div>
-	<div>Your ordeal<br />  <span>你的煎熬</span></div>
-	<div> Me too<br />  <span>我也是</span></div>
-	<div>I think about you day and night<br />  <span>日夜都在想你</span></div>
-	<div>I don't know <br />  <span>我不知道</span></div>
-	<div>how to express my feelings<br />  <span>该怎么表达我的感情</span></div>
-	<div>I took myself <br />  <span>我带着我自己</span></div>
-	<div>Come to your DongYing<br />  <span>来了你的东营</span></div>
-	<div>All I can say is<br/>  <span>我只能说</span></div>
-	<div>,without your life<br />  <span>，没有你的生活</span></div>
-	<div>I'm like half<br />  <span>我就好像是半个人</span></div>
-	<div>If you can <br />  <span>如果可以的话</span></div>
-	<div>I dream of pulling you<br />  <span>做梦都想拉着你</span></div>
-	<div>Travelling the world<br />  <span>游走世间</span></div>
+	<div>宝贝<br />  <span>我感同身受</span></div>
+	<div>你的煎熬<br />  <span>我也是</span></div>
+	<div>日夜都在想你<br />  <span>我不知道</span></div>
+	<div> 该怎么表达我的感情<br /> <div>我太爱你了<br /> 
+	<div>所以我来了<br />  <span>没有你的我</span></div>
+	<div>只是一个半人，如果可以的话<br />  <span>我想拉着你 </span></div>
+	<div>游走这个世间 <br />  <span>不要忘记我爱你</span></div>
         	
 </div>
 

@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
 <meta charset="UTF-8">
-<title>纯CSS3电影文字字幕动画特效 - 站长素材</title>
+<title>给最爱的静静</title>
 
 <style>
 @import url('https://fonts.googleapis.com/css?family=Oswald:700');
